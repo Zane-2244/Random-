@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\RDemo\RDemo\obj\Debug\RDemo.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\RDemo\RDemo\obj\Debug\RDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\RDemo\RDemo\bin\Debug\RDemo.exe.config
+C:\Users\Zane\source\repos\RDemo\RDemo\bin\Debug\RDemo.exe
+C:\Users\Zane\source\repos\RDemo\RDemo\bin\Debug\RDemo.pdb
+C:\Users\Zane\source\repos\RDemo\RDemo\obj\Debug\RDemo.exe
+C:\Users\Zane\source\repos\RDemo\RDemo\obj\Debug\RDemo.pdb
